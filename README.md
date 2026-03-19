@@ -1,7 +1,9 @@
 
   # Ecommerce Mobile App UI/UX
 
-  This is a code bundle for Ecommerce Mobile App UI/UX. The original project is available at https://www.figma.com/design/BT1yljZ8yLjWSZLYPcEBko/Ecommerce-Mobile-App-UI-UX.
+  This is a code bundle for Ecommerce Mobile App UI/UX. The original project is available at 
+
+  https://www.figma.com/make/BT1yljZ8yLjWSZLYPcEBko/Ecommerce-Mobile-App-UI-UX?p=f&t=XywFyEsSidq7tbbk-0&fullscreen=1
 
   ## Running the code
 
